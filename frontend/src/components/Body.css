@@ -1,0 +1,72 @@
+.mainBody{
+    width: 100%;
+    height: 100vh;
+    margin-top: 90px;
+    /* background-color: rgb(97, 97, 97);  */
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-around;
+    padding-top: 20px;
+    position: relative;
+}
+.left{
+    width: 24%;
+    height: 100%;
+    margin: 1px solid rgb(0, 37, 29);
+
+}
+
+.firstbox{
+    width: 100%;
+    height: 250px;
+    border-radius:20px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    padding-top: 15px;
+    justify-content: space-evenly;
+    margin-top: 10px;
+   
+    
+}
+
+.firstbox>p,.workLog>p{
+    font-weight: bold;
+    font-size: 19px;
+    color: black;
+    margin: 10px 0px;
+    display: flex;
+    margin-left: 25px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    width: 70%;
+    
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+
+.workLog{
+    height: 33vh;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    
+    justify-content: space-around;
+    border-radius:20px;
+    margin: 10px 0;
+
+}
+
+
+
+.center{
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+
+.right{
+    width: 24%;
+    height: 100%;
+}

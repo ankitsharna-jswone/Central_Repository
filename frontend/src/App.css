@@ -1,0 +1,7 @@
+.boxCard{
+    background-color: rgb(255, 255, 255);
+    /* border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0); */
+    /* box-shadow: 0px 0px 15px 1px rgba(0, 0, 0, 0.7); */
+    backdrop-filter: blur(10px);
+}

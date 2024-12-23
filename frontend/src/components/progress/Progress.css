@@ -1,0 +1,21 @@
+.automationProgress{
+    padding-top: 20px;
+    padding-right: 20px;
+    height: 340px;
+    border-radius:20px;
+   
+}
+
+.headers{
+    height: 30%;
+    width: 100%;
+    padding: 10px 50px;
+    margin-left: 10px;
+}
+
+.heading{
+    
+    font-size: 28px;
+    text-align: start;
+    color: rgb(0, 0, 0);
+}
